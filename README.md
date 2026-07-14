@@ -1,4 +1,4 @@
-## Framework 2.0 is the sixth volume in a cumulative theoretical series (Framework 1.0–2.0) that models the cell as a self-renewing active hydrogel system operating under a Basal Glycolytic Regime (BGR) / OXPHOS dual-flux energetic architecture. This volume adds a third defining dimension — relationship to the extracellular matrix — to the energetic and immune dimensions established in earlier volumes, and tests the resulting three-dimensional model of cellular state directly against experimental data.
+Framework 2.0 is the sixth volume in a cumulative theoretical series (Framework 1.0–2.0) that models the cell as a self-renewing active hydrogel system operating under a Basal Glycolytic Regime (BGR) / OXPHOS dual-flux energetic architecture. This volume adds a third defining dimension — relationship to the extracellular matrix — to the energetic and immune dimensions established in earlier volumes, and tests the resulting three-dimensional model of cellular state directly against experimental data.
 
 ## Ten chapters, organized in two halves:
 
