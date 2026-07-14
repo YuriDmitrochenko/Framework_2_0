@@ -15,7 +15,7 @@ This work is distributed under a **CC BY-NC 4.0** (Creative Commons Attributionâ
 ## Citation
 
 
-> Dmitrochenko, Y. (2026). *IArchitecture of Organism and Malignacy* (Framework 2.0). Israel.
+> Dmitrochenko, Y. (2026). *Architecture of Organism and Malignacy* (Framework 2.0). Israel.
 
 *DOI: 10.5281/zenodo._________*
 
